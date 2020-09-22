@@ -1,0 +1,19 @@
+.tap{
+    background-color: rgb(206, 3, 206);
+}
+.tabbar{
+    background-color:  rgb(206, 3, 206);
+}
+ons-icon{
+    color: aliceblue
+}
+.center-tap{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+  .size{
+      width: 300px;
+      height: 500px;
+  }
